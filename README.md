@@ -9,11 +9,7 @@ A catkin workspace for the development of UIUC's autonomous GEM Golf Car gazebo 
 * ROS Kinetic 
 
 ## Current Modules
-* Sensor Fusion - Combines LiDAR and Camera data
-```
-    roslaunch gemulator sensorFusion.launch
-    python mp2.py (gemulator/src/sensorFusion)
-```
+* Sensor Fusion - Combines LiDAR and Camera data (gemulator/src/sensorFusion)
 
 
 ## Sources
