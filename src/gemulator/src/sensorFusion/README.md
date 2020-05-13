@@ -6,6 +6,8 @@ This module integrates the Velodyne Puck 16 and a camera sensor in order to enha
 
 ## How to run
 ```
-    roslaunch gemulator sensorFusion.launch
+    catkin_make (gemulator)
+    source devel/setup.bash (gemulator)
+    roslaunch gemulator sensorFusion.launch (in any folder)
     python mp2.py (gemulator/src/sensorFusion)
 ```
