@@ -14,3 +14,7 @@ A catkin workspace for the development of UIUC's autonomous GEM Golf Car gazebo 
     roslaunch gemulator sensorFusion.launch
     python mp2.py (gemulator/src/sensorFusion)
 ```
+
+
+## Sources
+* [Velodyne LiDAR Package](https://bitbucket.org/DataspeedInc/velodyne_simulator/src/master/)
