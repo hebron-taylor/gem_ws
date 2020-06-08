@@ -1,6 +1,11 @@
 # Sensor Fusion Module
 This module integrates the Velodyne Puck 16 and a camera sensor in order to enhance pedestrian detecion.
 
+## Requirements
+* python-pcl
+* Gazebo 8+
+
+
 ## How to Run
 ```
     catkin_make (gem_ws)
